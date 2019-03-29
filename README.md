@@ -4,6 +4,6 @@ This is a HTML and CSS backgrounds and gradients project. Demonstrated skills in
 
 Source:
 
-*[Font Awesome](https://fontawesome.com)
+* [Font Awesome](https://fontawesome.com)
 
 From The Odin Project's [curriculum](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients)
